@@ -53,7 +53,7 @@ flowchart TD
 *"Parabéns! Você concluiu o curso. O certificado já está disponível e pode ser acessado diretamente pelo botão abaixo."*
 
 #### ❌ **Recusado**
-*"Sua inscrição foi analisada, mas não foi aprovada desta vez. Isso pode ter acontecido por não ter cumprido algum dos requisitos ou critérios definidos pela instituição responsável. Você pode tentar se inscrever novamente em uma próxima oportunidade ou conferir outros cursos disponíveis no Ciclo Carioca."*
+*"Sua inscrição foi analisada, mas não foi aprovada desta vez. Isso pode ter acontecido por não ter cumprido algum dos requisitos ou critérios definidos pela órgão responsável. Você pode tentar se inscrever novamente em uma próxima oportunidade ou conferir outros cursos disponíveis no Ciclo Carioca."*
 
 #### ❌ **Reprovado**
 *"Infelizmente você não atingiu os critérios necessários para a aprovação neste curso. Mas não desanime! Fique de olho em novas turmas ou em outros cursos que possam te interessar."*
