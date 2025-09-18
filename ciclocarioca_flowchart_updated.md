@@ -32,7 +32,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[Status: Em Análise] --> B{Decisão da Instituição}
+    A[Status: Em Análise] --> B{Decisão da orgao}
     B -->|Aprovado| C[Status: Inscrito]
     B -->|Rejeitado| D[Status: Recusado]
     C --> E{Curso em Andamento}
@@ -44,7 +44,7 @@ flowchart TD
 ### Mensagens por Status
 
 #### 🔍 **Em Análise**
-*"Sua inscrição foi enviada e será avaliada pela instituição responsável. Você receberá um e-mail com mais informações em breve."*
+*"Sua inscrição foi enviada e será avaliada pelo orgao responsável. Você receberá um e-mail com mais informações em breve."*
 
 #### ✅ **Inscrito**
 *"Sua inscrição foi aprovada com sucesso. Você já está confirmado(a) no curso e receberá por e-mail mais informações sobre as próximas etapas."*
@@ -77,7 +77,7 @@ flowchart TD
 ```
 Olá [Nome do Usuário],
 
-Sua inscrição foi enviada e será avaliada pela instituição responsável. 
+Sua inscrição foi enviada e será avaliada pelo órgão responsável. 
 Você receberá um e-mail com mais informações em breve.
 
 Você também pode acompanhar o status da sua inscrição na seção "Meus Cursos" 
@@ -112,7 +112,7 @@ Olá [Nome do Usuário],
 
 Sua inscrição foi analisada, mas não foi aprovada desta vez. Isso pode ter 
 acontecido por não ter cumprido algum dos requisitos ou critérios definidos 
-pela instituição responsável.
+pelo órgão responsável.
 
 Você pode:
 - Tentar se inscrever novamente em uma próxima oportunidade
