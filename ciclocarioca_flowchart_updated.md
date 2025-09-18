@@ -1,4 +1,4 @@
-# Fluxograma do Sistema de Inscrições - Ciclo Carioca
+# FLuxograma disparo de email Ciclo Carioca  - Ciclo Carioca
 
 ## Fluxo Principal de Inscrição
 
